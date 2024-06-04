@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ingirac.github.io/sitemap.html
+Sitemap: https://ingirac.github.io/app/sitemap.html
+Sitemap: https://ingirac.github.io/assets/sitemap.html
+Sitemap: https://ingirac.github.io/includes/sitemap.html
+Sitemap: https://ingirac.github.io/src/sitemap.html
